@@ -1,5 +1,5 @@
 # desafio-agile-ch01
-Este es el README de mi la aplicación desafío agile 2017.
+Este es el README de la aplicación para el Desafío Agile 2017.
 
 Para esta prueba se ha usado el ejemplo CH01, inserto en el rar que se ha enviado a los postulantes. 
 
