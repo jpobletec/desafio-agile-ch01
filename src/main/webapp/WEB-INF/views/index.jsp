@@ -14,7 +14,7 @@
 	  
 </head>
 <body>
-<h3 style="color:black">Desafío Aligare - Angularjs con SpringBoot</h3>
+<h3 style="color:black">DesafÃ­o Agile - Angularjs con SpringBoot</h3>
 <div class="container" ng-app="app">
 
 	
