@@ -18,7 +18,7 @@ CREATE TABLE 'product' (
   'product_id' varchar(255) COLLATE utf8mb4_unicode_ci DEFAULT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
 
-Las credenciales solo son el username "root", y el puerto 3306 (Ver application.services de /resources)
+Las credenciales solo son el username "root", y el puerto 3306 (Ver application.properties de /resources)
 
 
 Acceso a datos
